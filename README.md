@@ -69,3 +69,5 @@ Import `postman/hotel-offer-orchestrator.postman_collection.json`. It covers: ov
 ## Configuration (env)
 
 `PORT` (3000), `REDIS_URL`, `TEMPORAL_ADDRESS`, `SUPPLIER_BASE_URL`.
+<img width="1470" height="956" alt="Screenshot 2026-11-22 at 9 18 12 PM" src="https://github.com/user-attachments/assets/b3792b68-0292-49e7-947d-b767e8fe9229" />
+
